@@ -2,7 +2,7 @@
 - 👀 I’m passionate about building robust APIs, optimizing system performance, and exploring cloud-native architectures.
 - 🌱 I’m currently deepening my skills in RabbitMQ, Redis, and AWS, while learning more about Kafka and Elasticsearch.
 - 💞️ I’m looking to collaborate on projects involving Java Spring Boot, microservices, and distributed systems.
-- 📫 Reach me via [Email](mailto:sarojkumarchaudhary121@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saroj-chaudhary/).
+- 📫 Reach me via [sarojkumarchaudhary121@gmail.com](mailto:sarojkumarchaudhary121@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saroj-chaudhary/).
 
 
 <!---
